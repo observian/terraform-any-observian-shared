@@ -1,5 +1,5 @@
 # Examples
- - Loopable - [Abitrarty loop number. Similar to a for with a set count.](##Example-1---"Bare-Bones"-w/-Route53-and-ACM)
+ - Loopable - [Abitrarty loop number. Similar to a for with a set count.](##Loopable - For looping on an arbitrary number)
 <p>&nbsp;</p>
 
 ## Loopable - For looping on an arbitrary number
