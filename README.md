@@ -2,7 +2,7 @@
 Provider agnostic helpers.
 
 # Examples
- - Loopable - [Abitrarty loop number. Similar to a for with a set count.](##Loopable - For looping on an arbitrary number)
+ - Loopable - Abitrarty loop number. Similar to a for with a set count.
 <p>&nbsp;</p>
 
 ## Loopable - For looping on an arbitrary number
@@ -25,5 +25,18 @@ locals {
 output "index-count" {
     value = local.count
 }
+```
+
+Produces
+```
+Outputs:
+
+index-count = [
+  0,
+  1,
+  2,
+  3,
+  4,
+]
 ```
 <p>&nbsp;</p>
