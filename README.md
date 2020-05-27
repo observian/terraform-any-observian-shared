@@ -1,2 +1,2 @@
 # terraform-any-observian-shared
-Provider agnostic shared modules
+Provider agnostic helpers.
